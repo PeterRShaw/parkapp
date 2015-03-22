@@ -29,23 +29,23 @@ Our team:
 * [Logan Franken](https://github.com/loganfranken)
 * [Piera Damote](https://github.com/Piera)
 * [Utah Newman](https://github.com/theutahkate)
-* [Peter Shaw]()
+* [Peter Shaw](www.linkedin.com/pub/peter-shaw/5/7a6/a4b/en)
 * [Doug Wade](https://github.com/prekolna)
 
 ## Technologies, APIs, and Datasets Utilized
 
 We used the following **technologies**:
 
-* [AngularJS](https://angularjs.org/)
-* [ArcGIS JavaScript API](http://www.arcgis.com/)
-* [Bower](http://bower.io/)
-* [CoffeeScript (server-side)](http://coffeescript.org/)
+* AngularJS
+* ArcGIS JavaScript API
+* Bower
+* CoffeeScript (server-side)
 * CSS
-* [Jade](http://jade-lang.com/)
+* Jade
 * JavaScript
-* [Koa](http://koajs.com/)
-* [LokiJS](http://lokijs.org/)
-* [Twitter Bootstrap](http://getbootstrap.com/)
+* Koa
+* LokiJS
+* Twitter Bootstrap
 
 We used the following **APIs**:
 
